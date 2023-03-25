@@ -8,6 +8,7 @@ nav{
 #searcbtn{
     background-color: black;
     color: white;
+    margin-right: 80px;
     
 }
 #searcbtn:hover{
