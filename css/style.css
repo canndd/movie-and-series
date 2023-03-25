@@ -1,0 +1,15 @@
+nav{
+    background: linear-gradient(90deg, rgba(27,56,108,1) 0%, rgba(37,69,129,1) 100%);
+    
+}
+#navbarA1{
+    margin-left: 80px;
+}
+#searcbtn{
+    background-color: black;
+    color: white;
+    
+}
+#searcbtn:hover{
+    border: 1px solid blue;
+}
