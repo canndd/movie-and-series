@@ -25,3 +25,7 @@ nav{
 .navbarli:hover{
     color: blueviolet;
 }
+.carouselw-h{
+    width: 1100px;
+    height: 500px;
+}
