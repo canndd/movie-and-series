@@ -33,6 +33,11 @@ nav{
     color: #0c2480;
 
 }
+.footerli{
+    color: dimgray;
+}
+
+
 .footerli:hover{
-    color: blueviolet;
+    color: rgb(219, 217, 217);
 }
