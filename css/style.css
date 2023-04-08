@@ -50,6 +50,10 @@ footer{
 }
 #popülerfilm{
     margin-left: 35px;
-    margin-top: 8px;
+    color:rgb(255, 255, 255);
+    font-size: 22px;
 
+}
+#popülerfilm:hover{
+    color: rgb(37,69,129,1);
 }
